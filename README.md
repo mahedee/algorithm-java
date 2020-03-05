@@ -1,2 +1,2 @@
-# algorithm-java
-algorithm using java
+# Algorithm using java
+### Insertion sort
